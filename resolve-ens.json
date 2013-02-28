@@ -1,6 +1,6 @@
 {
 	ens: {
-		date:02-28-2013, 
+		date:"02-28-2013", 
 		title:"Testing ENS",
 		message:"Application unavailable during test."
 	}
