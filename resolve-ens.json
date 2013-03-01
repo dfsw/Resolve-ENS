@@ -1,8 +1,8 @@
 {
 	"ens": {
-		"date":"2013-02-28T15:28:00-07:00", 
+		"date":"2013-02-28T20:59:00-07:00", 
 		"title":"Testing ENS",
-		"shouldDisplay":0,
+		"shouldDisplay":1,
 		"displayCount":2,
 		"message":"Application unavailable during test."
 	}
