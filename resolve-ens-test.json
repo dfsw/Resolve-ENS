@@ -1,9 +1,9 @@
 {
 	"ens": {
-		"date":"2013-03-05T15:54:00-07:00", 
-		"title":"User Notification",
-		"shouldDisplay":1,
-		"displayCount":2,
-		"message":"This is THE TEST VERSION a test of the Resolve App emegency notification system \n\n This is only a test if this was an actual Lighthouse API emegency you would be screwed. This area will be used for directions and work arounds to help our users handle issues.\n\n\n This message should display twice and then automatically supress itself. If this message appaers to be broken or malfunctioning in anyway please infrom Kyle Richter or Joe Keeley.\n\n ----------------------\nThis has been a test of the Resolve App Emergency Notifcation System."
+		"date":"2013-03-07T14:30:00-07:00", 
+		"title":"",
+		"shouldDisplay":0,
+		"displayCount":0,
+		"message":""
 	}
 }
