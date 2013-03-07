@@ -3,7 +3,7 @@
 		"date":"2013-03-07T14:45:00-07:00", 
 		"title":"Test",
 		"shouldDisplay":1,
-		"displayCount":0,
+		"displayCount":1,
 		"message":"Testing 123"
 	}
 }
